@@ -1,3 +1,3 @@
 # ChatBotBiblico
-CHat boot em python
-Usando algumas biblioteacs
+Chat boot em python
+Usando algumas bibliotecas
